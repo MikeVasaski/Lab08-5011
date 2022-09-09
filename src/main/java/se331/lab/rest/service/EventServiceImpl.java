@@ -13,8 +13,8 @@ public class EventServiceImpl implements EventService{
     EventDao eventDao;
 
     @Override
-    public Integer getEventSize(){
-        return eventDao.getEventSize();
+    public Integer getEventService() {
+        return null;
     }
 
     @Override
